@@ -47,7 +47,7 @@
     "coffee-script": "~1.7.1"
   },
   "dependencies": {
-    "update-notifier": "~0.1.8",
+    "update-notifier": "https://github.com/laxels/update-notifier/tarball/master",
     "minimatch": "~0.3.0",
     "ps-tree": "~0.0.3"
   }
